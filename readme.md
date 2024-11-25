@@ -45,8 +45,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 ```sh
-  git clone https://github.com/iamtonmoy0/node-express-school-management-system.git
-
+    https://github.com/phamdongchinh683/nodejs-manage-school-student
 ```
 
 SCHOOL-MANAGEMENT-SERVER
